@@ -1,0 +1,15 @@
+{
+    "name": "parser",
+    "version": "1.0.0",
+    "description": "parser for mongodb",
+    "main": "app.js",
+    "scripts": {
+        "start": "nodemon app.js"
+    },
+    "author": "Sarvar55",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.2",
+        "mongoose": "^7.4.1"
+    }
+}
